@@ -1,0 +1,492 @@
+/* TEXT-Link */
+
+A:link		{ color:#0000D0; text-decoration:none; }
+A:visited	{ color:#0000A0; text-decoration:none; }
+A:hover		{ color:#0000FF; text-decoration:underline; }
+A:alink		{ color:#0000FF; text-decoration:none; }
+
+
+/* FOOTER-Link */
+
+.ftr_link	{ color:#404040; font:10px/10px "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.ftr_corp	{ color:#FFFFFF; font:bold 9px verdana,sans-serif; }
+
+
+/* Left-Menu-ListFBLUE */
+
+TABLE.lm_ttl	{ width:170px; height:37px; border-spacing:0px; background:url(/images_general/lm_title_bgimg_b.gif) no-repeat; }
+TD.lm_ttl	{ text-align:center; vertical-align:middle; padding-bottom:2px; }
+H1.lm		{ color:#FFFFFF; font:bold 12px/13px "MS UI Gothic",Osaka,sans-serif; }
+
+.ct_color	{ background-color:#3C4EAB; border-top:#FFFFFF 1px solid; }
+
+.list
+	{
+		margin-top:10px;
+		display:block;
+	}
+
+ul.left_menu
+	{
+		width:168px;
+		text-align:left;
+		padding:0px;
+		margin:0px;
+		list-style:none;
+	}
+
+li.list1on /* ‘I‘ğF‘æˆêŠK‘w */
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		margin:0px;
+		padding:4px 6px 2px 12px;
+		display:block;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat right center #FFFFFF;
+		border-top:1px #E0E0E0 solid;
+		border-bottom:1px #E0E0E0 solid;
+		font:75%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list2on /* ‘I‘ğF‘æ“ñŠK‘w */
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		margin:0px;
+		padding:4px 6px 2px 20px;
+		display:block;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat right center #FFFFFF;
+		border-top:1px #E0E0E0 solid;
+		border-bottom:1px #E0E0E0 solid;
+		font:75%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list3on /* ‘I‘ğF‘æOŠK‘w */
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		margin:0px;
+		padding:3px 6px 1px 28px;
+		display:block;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat right center #FFFFFF;
+		border-top:1px #E0E0E0 solid;
+		border-bottom:1px #E0E0E0 solid;
+		font:75%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list4on /* ‘I‘ğF‘ælŠK‘w */
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		margin:0px;
+		padding:2px 6px 0px 36px;
+		display:block;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat right center #FFFFFF;
+		border-top:1px #E0E0E0 solid;
+		border-bottom:1px #E0E0E0 solid;
+		font:70%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+
+li.list1 /* ’ÊíF‘æˆêŠK‘w */
+	{
+		text-decoration:none; 
+		color:#404040;
+		display:block;
+		margin:0px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 0px center #FFFFFF;
+		font:75%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list1	a
+	{
+		color:#404040;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 4px 2px 12px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 0px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list1	a:visited
+	{
+		color:#606060;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 4px 2px 12px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 0px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list1	a:hover
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 4px 2px 12px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 0px center #F0F0F0;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #3C4EAB solid;
+	}
+
+li.list1	a:active
+	{
+		color:#404040;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 4px 2px 12px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 0px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+
+li.list2 /* ’ÊíF‘æ“ñŠK‘w */
+	{
+		text-decoration:none;
+		color:#404040;
+		display:block;
+		margin:0px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 8px center #FFFFFF;
+		font:75%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list2	a
+	{
+		color:#404040;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 6px 2px 20px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 8px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list2	a:visited
+	{
+		color:#606060;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 6px 2px 20px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 8px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list2	a:hover
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:4px 6px 2px 20px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 8px center #F0F0F0;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #3C4EAB solid;
+	}
+
+li.list2	a:active
+	{
+		color:#404040;
+		text-decoration:none; 
+		display:block;
+		margin:0px;
+		padding:4px 6px 2px 20px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 8px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+
+li.list3 /* ’ÊíF‘æOŠK‘w */
+	{
+		color:#404040;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 16px center #FFFFFF;
+		font:75%/120% MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list3	a
+	{
+		color:#404040;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:3px 6px 1px 28px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 16px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list3	a:visited
+	{
+		color:#606060;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:3px 6px 1px 28px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 16px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list3	a:hover
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:3px 6px 1px 28px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 16px center #F0F0F0;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #3C4EAB solid;
+	}
+
+li.list3	a:active
+	{
+		color:#404040;
+		text-decoration:none; 
+		display:block;
+		margin:0px;
+		padding:3px 6px 1px 28px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 16px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+
+li.list4 /* ’ÊíF‘ælŠK‘w */
+	{
+		font-size:70%;
+		line-height:120%;
+		text-decoration:none;
+		color:#404040;
+		display:block;
+		margin:0px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 24px center #FFFFFF;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list4	a
+	{
+		color:#404040;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:2px 6px 0px 36px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 24px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list4	a:visited
+	{
+		color:#606060;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:2px 6px 0px 36px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 24px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+li.list4	a:hover
+	{
+		color:#3C4EAB;
+		text-decoration:none;
+		display:block;
+		margin:0px;
+		padding:2px 6px 0px 36px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 24px center #F0F0F0;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #3C4EAB solid;
+	}
+
+li.list4	a:active
+	{
+		color:#404040;
+		text-decoration:none; 
+		display:block;
+		margin:0px;
+		padding:2px 6px 0px 36px;
+		background:url(/images_general/lm_triple_blue_li1.gif) no-repeat 24px center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+	}
+
+
+li.list_cate /* Œ©oFƒJƒeƒSƒŠ[‚ÌŒ©o‚µ‚Æ‚µ‚Äg‚í‚ê‚éê‡ */
+	{
+		font-size:80%;
+		line-height:115%;
+		color:#404040;
+		text-decoration:none;
+		margin:0px;
+		padding:4px 2px 3px 6px;
+		display:block;
+		background:url(/images_general/lm_cate_blue_bgimg.gif) no-repeat left top;
+		border-top:10px #FFFFFF solid;
+		border-bottom:1px #D0D0D0 solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+
+li.list1off /* ƒŠƒ“ƒN‚n‚e‚eF‘æˆêŠK‘w */
+	{
+		font-size:75%;
+		line-height:120%;
+		text-decoration:none;
+		color:#404040;
+		display:block;
+		margin:0px;
+		padding:4px 4px 2px 12px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat left center #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+li.list2off /* ƒŠƒ“ƒN‚n‚e‚eF‘æ“ñŠK‘w */
+	{
+		font-size:75%;
+		line-height:120%;
+		text-decoration:none;
+		color:#404040;
+		display:block;
+		margin:0px;
+		padding:4px 6px 2px 20px;
+		background:url(/images_general/lm_triple_gr_li1.gif) no-repeat 8px center  #FFFFFF;
+		border-top:1px #FFFFFF solid;
+		border-bottom:1px #FFFFFF solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+
+
+/* ƒvƒƒ‚[ƒVƒ‡ƒ“ƒXƒy[ƒX */
+
+.prmssi_ttl
+	{
+		color:#FFFFFF;
+		background-color:#3C4EAB;
+		background-image:url(/ssi/promotion/images/promo_lt_cut_b.gif);
+		background-repeat:no-repeat;
+		padding:4px 3px 2px 3px;
+		font-size:75%;
+		line-height:120%;
+		font-weight:bold;
+		text-align:center;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+.prmssi_ttl_pu
+	{
+		color:#FFFFFF;
+		background-color:#3C4EAB;
+		background-image:url(/ssi/promotion/images/pickup_b.gif);
+	}
+
+.prmssi_ttl_pu_r
+	{
+		color:#FFFFFF;
+		background-color:#A31D1D;
+		background-image:url(/ssi/promotion/images/pickup_r.gif);
+	}
+
+.prmssi_btn
+	{
+		background-color:#F0F0EC;
+		text-align:center;
+		padding:3px 0px 1px 0px;
+		border-right:1px #E0E0D8 solid;
+	}
+
+.prmssi_banner
+	{
+		background-color:#F0F0EC;
+		padding:1px 0px 1px 0px;
+	}
+
+.prmssi_bn_only
+	{
+		background-color:#FFFFFF;
+		padding:0px;
+	}
+
+.prmssi_cap1l
+	{
+		background-color:#F0F0EC;
+		color:#606050;
+		font-size:70%;
+		line-height:110%;
+		text-align:left;
+		padding:3px 3px 2px 3px;
+		border-right:1px #E0E0D8 solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+.prmssi_cap1c
+	{
+		background-color:#F0F0EC;
+		color:#606050;
+		font-size:70%;
+		line-height:110%;
+		text-align:center;
+		padding:3px 3px 2px 3px;
+		border-right:1px #E0E0D8 solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+.prmssi_cap2l
+	{
+		background-color:#F0F0EC;
+		color:#707060;
+		font-size:65%;
+		line-height:110%;
+		text-align:left;
+		padding:0px 4px 4px 4px;
+		border-right:1px #E0E0D8 solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+.prmssi_cap2c
+	{
+		background-color:#F0F0EC;
+		color:#707060;
+		font-size:65%;
+		line-height:110%;
+		text-align:center;
+		padding:0px 4px 4px 4px;
+		border-right:1px #E0E0D8 solid;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+.prmssi_click
+	{
+		background-color:#F0F0EC;
+		color:#808070;
+		font-size:65%;
+		line-height:110%;
+		text-align:center;
+		padding:1px 0px 2px 0px;
+		font-family:MS UI Gothic,"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif;
+	}
+
+.prmssi_inn_shadow	{ background-image:url(/ssi/promotion/images_layout/shdw_inn.gif); }
+.prmssi_inn_shadow1	{ background-color:#606050; }
+.prmssi_inn_shadow2	{ background-color:#C0C0B0; }
+.prmssi_out_shadow	{ background-image:url(/ssi/promotion/images_layout/shdw_out_b.gif); }
+.prmssi_out_shadow1	{ background-color:#3C4EAB; }
+.prmssi_out_shadow2	{ background-color:#606060; }
+.prmssi_out_shadow3	{ background-color:#C0C0C0; }

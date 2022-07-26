@@ -1,0 +1,35 @@
+/* コンピュータ画面向けの表示の場合 */
+@media screen { 
+.printonly { display:none; }
+}
+
+/* プリンター出力時の表示の場合 */
+@media print { 
+.screenonly { display:none; }
+}
+
+/* GLOBAL */
+BODY { margin:15px; padding:0px; }
+H1 { margin:0px; }
+H2 { margin:0px; }
+H3 { margin:0px; }
+H4 { margin:0px; }
+H5 { margin:0px; }
+H6 { margin:0px; }
+FORM { margin:0; padding:0; }
+INPUT { margin:1px 2px; }
+IFRAME { width:650px; height:370px; border:0; }
+
+/* MAIN CONTENTS */
+DIV.main { width:700px; line-height:130%; }
+DIV.titleimage { margin-bottom:10px; }
+
+/* VOTE */
+DIV.vote_area { width:648px; background-color:#E0E8F0; padding:5px 1px; font:92%/150% 'メイリオ','ＭＳ Ｐゴシック',osaka,sans-serif; white-space:nowrap; }
+DIV.vote_main { text-align:left; background-color:#F0F4F8; padding:5px 15px; font:92%/150% 'メイリオ','ＭＳ Ｐゴシック',osaka,sans-serif; }
+DIV.vote_footer { text-align:left; width:600px; padding:5px 5px; font:75%/150% 'メイリオ','ＭＳ Ｐゴシック',osaka,sans-serif; }
+DIV.vote_caution { margin-bottom:0.2em; padding-left:1em; text-indent:-1em; }
+
+.vote_barrier { width:30px; }
+
+

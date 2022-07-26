@@ -1,0 +1,54 @@
+UNKNOWN {
+  background-color:#F3EDEE;
+  color:#8000E2;
+  text-decoration:none;
+}
+
+.top {
+  margin-top:2em;
+  margin-left:1em;
+  font-size:15px ;
+  font-weight:bold 
+}
+
+.toc {
+  font-size:15px;
+}
+.toc .close {
+  list-style-type:none;
+}
+.toc .open {
+  list-style-type:none;
+}
+.toc LI {
+  margin:10px 0 10px 0px;
+  padding:3px 0;
+}
+.toc UL LI {
+  margin:10px 0 10px 0px;
+  padding:3px 0;
+  font-size:13px;
+  list-style-image:url(none);
+  list-style-type:none;
+  width:600px;
+}
+.toc UL {
+  DISPLAY:none;
+}
+.toc UL UL {
+  DISPLAY:none;
+}
+.toc .expanded {
+  DISPLAY:block;
+}
+.toc DIV.main {
+  width:650px;
+  padding:3px 0 3px 25px;
+  margin-top:0px;
+  background:url(/images/mark_faq_sorizo.gif) 0px center no-repeat #A9EF4C;
+  font-weight:normal;
+}
+
+IMG {
+  border:0;
+}

@@ -1,0 +1,80 @@
+/* ƒƒOƒCƒ“•”•ª”wŒi */
+
+.bg_login	{ background:url(images/login_bg_nou.gif) no-repeat; padding-top:6px; font-size:11px; text-align:center;color:#505050; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+
+/* ƒjƒ…[ƒXƒ^ƒO */
+
+.today	{
+		background:url(images/todaybg_gr.gif) no-repeat #EFFAE1;
+		font-size:11px;
+		line-height:14px;
+		padding-left:95px;
+		text-indent:-10px;
+		color:#787D71;
+		vertical-align:center;
+		font-family:"MS UI Gothic",Osaka,sans-serif;
+	}
+
+
+/* ƒ}ƒjƒAƒbƒN–ìØè‚¢ */
+
+.vg_uranai	{ font-size:11px; text-align:right; padding-top:5px; color:#404040; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+
+/* ƒRƒ“ƒeƒ“ƒcŒ©o‚µ */
+
+.top_mida_download	{ background:url(images/top_mida_download_nou.gif) no-repeat; font-size:6px; text-align:center; }
+
+.top_mida_support	{ background:url(images/top_mida_support_nou.gif) no-repeat; font-size:6px; text-align:center; }
+
+.top_mida_service	{ background:url(images/top_mida_service_nou.gif) no-repeat; font-size:6px; text-align:center; }
+
+.top_mida_backup	{ background:url(images/top_mida_backup_nou.gif) no-repeat; font-size:6px; text-align:center; }
+
+
+/* ƒRƒ“ƒeƒ“ƒcŒ©o‚µ */
+
+.srz_y_mark	{ background:url(images/contents_sorizo_y.gif) no-repeat #A9EF4C 0px 0px; }
+
+.srz_y_mark_new	{ background:url(images/contents_sorizo_y_new.gif) no-repeat #A9EF4C 0px 0px; }
+
+.srz_y		{ background-color:#A9EF4C; border-top:2px #FFFFFF solid; padding:3px 5px 2px 5px; text-align:left; font-size:14px; line-height:17px; color:#404040; font-family:MS UI Gothic,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.srz_n_mark	{ background:url(images/contents_sorizo_n.gif) no-repeat #E3E3E3 0px 0px; }
+
+.srz_n		{ background-color:#E3E3E3; border-top:2px #FFFFFF solid; padding:3px 5px 2px 5px; text-align:left; font-size:14px; line-height:17px; color:#606060; font-family:MS UI Gothic,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.prjs_y_mark	{ background:url(images/contents_prjs_y.gif) no-repeat #EFA2A4 0px 0px; }
+
+.prjs_y		{ background-color:#EFA2A4; border-top:2px #FFFFFF solid; padding:3px 5px 2px 5px; text-align:left; font-size:12px; line-height:15px; color:#404040; font-family:MS UI Gothic,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.prjs_n_mark	{ background:url(images/contents_prjs_n.gif) no-repeat #E3E3E3 0px 0px; }
+
+.prjs_n		{ background-color:#E3E3E3; border-top:2px #FFFFFF solid; padding:3px 5px 2px 5px; text-align:left; font-size:12px; line-height:15px; color:#606060; font-family:MS UI Gothic,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+
+/* ƒRƒ“ƒeƒ“ƒcà–¾ */
+
+.cont_caption_y		{ background:url(images/contents_nogyo_bg.gif) no-repeat right bottom; padding:4px 3px 10px 10px; font-size:12px; line-height:15px; color:#606060; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.cont_caption_n		{ padding:4px 3px 10px 10px; font-size:12px; line-height:15px; color:#909090; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.cont_caption2_y	{ background:url(images/contents_nogyo_bg.gif) no-repeat right bottom; padding:4px 3px 10px 25px; font-size:12px; line-height:15px; color:#606060; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.cont_caption2_n	{ padding:4px 3px 10px 25px; font-size:12px; line-height:15px; color:#909090; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+DIV.cont_caution	{ color:#FF3300; padding-left:1em; text-indent:-1em; }
+
+
+/* ‰Eƒƒjƒ…[ */
+
+.rmenu_mida	{ background:url(images/right_menu_rt5.gif) no-repeat 0px 0px #429330; border-bottom:2px #FFFFFF solid; padding:6px 0px 5px 0px; color:#FFFFFF; font-size:12px; line-height:15px; text-align:center; font-weight:bold; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.rmenu_contents	{ background-color:#A9EF4C; padding:5px 5px 4px 7px; border-bottom:2px #FFFFFF solid; color:#404040; font-size:12px; line-height:15px; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+.rmenu_alert	{ padding:0px 2px 20px 2px; color:#606060; font-size:10px; line-height:13px; font-family:'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+
+
+

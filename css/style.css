@@ -1,0 +1,17 @@
+.pageTitle {font-weight: bold; margin-bottom: 2px;}
+.alertMessage { color: #ff3300; font-size: 90%;}
+.errMessage { color: red; font-weight: bold;}
+.outer {border: 1px solid silver;}
+.head {background-color: #379C01; padding: 5px; font-weight: bold; color:#fff;}
+.even {background-color: #CCFFCC; padding: 5px;}
+.odd {background-color: #fff; padding: 5px;}
+.foot {background-color: #99CC33; padding: 5px; font-weight: bold;}
+.photo {background: White;padding: 6px;border-width: 1px; border-style: solid; border-color: Silver Gray Gray Silver; float: left;}
+.desc {font-size:10px; color:#333}
+.softdown	{ font-size:75%; line-height:120%; color:#404040; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_130	{ font-size:75%; line-height:130%; color:#404040; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_150	{ font-size:75%; line-height:150%; color:#404040; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_150	{ font-size:85%; line-height:150%; color:#404040; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+
+
+.error_blue	{ font-size:100%; font-weight:bold; color:#2222FF; }

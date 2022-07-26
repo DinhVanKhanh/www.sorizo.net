@@ -1,0 +1,19 @@
+@charset "shift_jis";
+/*
+reset_default.css
+* * * * * * * * * * * * * * * * * * * * */
+
+/* @group reset font style */
+
+html,body,div,
+h1,h2,h3,h4,h5,h6,
+p,dl,dt,dd,ul,ol,li,
+span,address,
+table,thead,tfoot,tbody,th,td,
+form,fieldset,label,button,input,textarea,
+blockquote,pre,object,param
+{
+font-family:sans-serif;
+}
+
+/* @end */

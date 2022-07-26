@@ -1,0 +1,44 @@
+/* インデントに関する指定のみ */
+/* CLASS名の数字は[1行目]_[2行目以降]を表す */
+/* 単純なスペース明けの場合は[2行目以降]を省略 */
+
+
+/* L1:0 */
+
+.id0_1	{ padding-left:1em; text-indent:-1em; }
+.id0_2	{ padding-left:2em; text-indent:-2em; }
+.id0_3	{ padding-left:3em; text-indent:-3em; }
+
+
+/* L1:1 */
+
+.id1	{ padding-left:1em; }
+.id1_0	{ text-indent:1em; }
+.id1_2	{ padding-left:2em; text-indent:-1em; }
+.id1_3	{ padding-left:3em; text-indent:-2em; }
+.id1_4	{ padding-left:4em; text-indent:-3em; }
+
+
+/* L1:2 */
+
+.id2	{ padding-left:2em; }
+.id2_1	{ padding-left:1em; text-indent:1em; }
+.id2_3	{ padding-left:3em; text-indent:-1em; }
+.id2_4	{ padding-left:4em; text-indent:-2em; }
+
+
+/* L1:3 */
+
+.id3	{ padding-left:3em; }
+.id3_2	{ padding-left:2em; text-indent:1em; }
+.id3_4	{ padding-left:4em; text-indent:-1em; }
+.id3_5	{ padding-left:5em; text-indent:-2em; }
+
+
+/* L1:4 */
+
+.id4	{ padding-left:4em; }
+.id4_3	{ padding-left:3em; text-indent:1em; }
+.id4_5	{ padding-left:5em; text-indent:-1em; }
+.id4_6	{ padding-left:6em; text-indent:-2em; }
+

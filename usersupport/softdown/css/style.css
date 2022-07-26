@@ -1,0 +1,12 @@
+/* updatelist */
+table.updatelist {width: 500px;}
+/*table.updatelist td {background-color: #fff; padding:2px; text-align:left} */
+/*table.updatelist td {background-color: #fff; padding:2px;} */
+table.updatelist td.head {color: #FFFFFF; background-color: #33CC00;border-bottom: solid 1px #666;font-weight: bold;}
+table.updatelist td.odd {color: #333; background-color: #ffffff; border-bottom: solid 1px #666;}
+table.updatelist td.even {color: #333; background-color: #efefef; border-bottom: solid 1px #666;}
+
+/* updatelist(KWatanabe) */
+table.updatelist td.head2 {color: #FFFFFF; background-color: #33CC00; border-bottom:1px #708060 solid; border-right:1px #708060 solid; font:bold 85%/130% MS UI Gothic,osaka,sans-serif; }
+table.updatelist td.odd2 { color: #333; background-color: #ffffff; border-bottom:1px #C0C0C0 solid; border-right:1px #C0C0C0 solid; font:90%/130% MS UI Gothic,osaka,sans-serif; }
+table.updatelist td.odd3 { color: #333; background-color: #ffffff; border-bottom:1px #C0C0C0 solid; border-right:1px #C0C0C0 solid; font:90%/130% Verdana,osaka,sans-serif; }

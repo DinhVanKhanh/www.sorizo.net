@@ -1,0 +1,89 @@
+@charset "shift_jis";
+/*
+reset_ie.css
+* * * * * * * * * * * * * * * * * * * * */
+
+/* @group reset core class */
+
+/* @group fixed windows internet explorer v7 */
+
+*:first-child+html body
+{
+zoom:1;
+}
+
+*:first-child+html ul dl,
+*:first-child+html ol dl
+{
+display:inline;
+}
+
+*:first-child+html a,
+*:first-child+html em,
+*:first-child+html span
+{
+min-height:0;
+}
+
+/* @group printfix class */
+
+@media print
+{
+*:first-child+html *
+{
+zoom:1;
+}
+}
+
+/* @end */
+
+/* @end */
+
+/* @group fixed windows internet explorer v6 */
+
+* html body
+{
+zoom:1;
+}
+
+* html ul dl,
+* html ol dl
+{
+display:inline;
+}
+
+* html a,
+* html em,
+* html span
+{
+height:1%;
+}
+
+* html td a
+{
+height:auto;
+}
+
+/* @group printfix class */
+
+@media print
+{
+* html *
+{
+zoom:1;
+}
+}
+
+@media print
+{
+* html body
+{
+zoom:80%;
+}
+}
+
+/* @end */
+
+/* @end */
+
+/* @end */

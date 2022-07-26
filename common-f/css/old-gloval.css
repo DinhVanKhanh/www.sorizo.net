@@ -1,0 +1,165 @@
+@charset "shift_jis";
+/* CSS Document */
+
+
+/* group reset */
+*{margin: 0; padding: 0;}
+a { text-decoration : none;}
+ul, ol { list-style : none;}
+img{ vertical-align : middle;}
+/* end */
+
+
+/* FloatÉoÉOâÒîóp */
+.clearfix:after { content: ""; display: block; clear: both; }
+/* end */
+
+/* äÓñ{ê›íË */
+html {
+	font-family:'ÉqÉâÉMÉmäpÉS Pro W3','Hiragino Kaku Gothic Pro','ÉÅÉCÉäÉI',Meiryo,'ÇlÇr ÇoÉSÉVÉbÉN','MS PGothic',sans-serif;
+}
+body {
+	position:relative;
+	margin:0;
+	padding:0;
+	color:#29312f;
+	text-align:center;
+	background-image:url(/common-f/images/bg01.gif);
+}
+#oldWrapper {
+	display:block;
+	margin:0 auto;
+	padding:40px 0;
+}
+#oldHeader,
+#oldFooter {
+	display:block;
+	width:100%;
+	margin:0;
+}
+#oldHeader {
+	padding:120px 0 0 0;
+	background-color:#FFF;
+	box-shadow:0 0 5px rgba(0,0,0,0.2);
+	background-image:url(../images/logo.gif);
+	background-position:center 20px;
+	background-repeat:no-repeat;
+	border-top:5px solid #29312f;
+}
+#oldFooter {
+	padding:0;
+	color:#f6f5e9;
+	background-color:#4a6844;
+}
+
+/* è⁄ç◊ê›íË */
+#oldHeader h1,
+#oldHeader p {
+	margin:0 auto;
+	line-height:1.2em;
+}
+#oldHeader h1 {
+	padding:0 0 0.5em 0;
+	font-size:24px;
+	color:#4a6844;
+}
+#oldHeader p {
+	padding:0 0 1em 0;
+	font-size:13px;
+}
+#oldFooter p,
+#oldFooter ul {
+	margin:0;
+	width:100%;
+	padding:10px;
+	text-align:center;
+}
+#oldFooter p {
+	font-size:12px;
+	border-top:1px solid #62835b;
+}
+#oldFooter ul {
+	font-size:16px;
+	border-bottom:1px solid #314e2b;
+}
+#oldFooter li {
+	margin:0;
+	padding:0 1em;
+	display:inline;
+}
+#oldFooter li a {color:#f6f5e9;}
+
+.old-table {
+	margin:30px auto;
+}
+
+.old-table {
+	margin:30px auto;
+	text-align:left;
+	border-top:3px #4a6844 solid;
+	border-left:3px #4a6844 solid;
+	border-bottom:2px #4a6844 solid;
+	border-right:2px #4a6844 solid;
+}
+.old-table th {
+	color:#29312f;
+	padding:3px;
+	font-size:14px;
+	white-space:nowrap;
+	border-right:1px #4a6844 solid;
+	border-bottom:1px #4a6844 solid;
+	background-color:#e0e9bd;
+}
+.old-table td {
+	color:#29312f;
+	padding:5px;
+	font-size:13px;
+	border-right:1px #4a6844 solid;
+	border-bottom:1px #4a6844 solid;
+	background-color:#FFF;
+}/*
+*/
+
+/* TOPÇ÷ñﬂÇÈÉ{É^ÉìÇÃê›íË */
+#toTop {
+	position:fixed;
+	bottom:35px;
+	right:-5px;
+	z-index:1500;
+	text-align:center;
+}
+#toTop a {
+	display:block;
+	width:40px;
+	height:80px;
+	color:#FFF;
+	font-size:16px;
+	line-height:80px;
+	text-decoration:none;
+	border-radius:5px;
+	background-color:rgba(0,0,0,0.5);
+	box-shadow:0 3px 5px rgba(0,0,0,0.2);
+}
+#toTop a:hover {background-color:rgba(0,0,0,0.8);}
+#pos {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+	height:0;
+	visibility:hidden;
+}
+
+/* IE8ï\é¶ïˆÇÍñhé~óp */
+#toTop a {background-image:url(/common-f/images/totop.png)\9;}
+
+/* IE7ï\é¶ïˆÇÍñhé~óp */
+*+html #head li,
+*+html #foot li {display:inline;}
+*+html #toTop a {background-image:url(/common-f/images/totop.png);}
+*+html #toTop a:hover { opacity:1;}
+
+/* IE6ï\é¶ïˆÇÍñhé~óp */
+*html .section {background-color:#FFF;}
+*html #head li,
+*html #foot li {display:inline;}
+*html #toTop {display:none !important;}

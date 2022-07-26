@@ -1,0 +1,12 @@
+@charset "shift_jis";
+/*
+import.css
+* * * * * * * * * * * * * * * * * * * * */
+
+@import "reset.css";
+@import "reset_ie.css";
+@import "corelibrary.css";
+
+@import "layout.css";
+@import "size.css";
+@import "contents.css";

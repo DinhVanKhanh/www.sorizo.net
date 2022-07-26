@@ -1,0 +1,81 @@
+/* JUMP_inPage LINK */
+.list_jump_75	{ background:url(/images_general/navimark_jump_y.gif) no-repeat 10px center; padding:6px 0px 5px 55px; font:75% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif;}
+.list_jump_85	{ background:url(/images_general/navimark_jump_y.gif) no-repeat 10px center; padding:6px 0px 5px 55px; font:85% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif;}
+
+/* LIST-GENERAL-01 */
+
+TH.list_g0	{ background-color:#368e0f; padding:4px; color:#FFFFFF; border:1px #D0D0D0 solid; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+
+/* LIST-GENERAL-01 */
+TABLE.list_g1	{ border-collapse:collapse; }
+TH.list_g1	{ background-color:#cbf1ba; padding:4px; color:#505050; border:1px #D0D0D0 solid; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1l	{ background-color:#cbf1ba; padding:4px; color:#505050; border:1px #D0D0D0 solid; text-align:left; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1lt	{ background-color:#cbf1ba; padding:4px; color:#505050; border:1px #D0D0D0 solid; text-align:left; vertical-align:top; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1t	{ background-color:#cbf1ba; padding:4px; color:#505050; border:1px #D0D0D0 solid; vertical-align:top; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1n	{ background-color:#cbf1ba; padding:4px; color:#404040; border:1px #D0D0D0 solid; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1nt	{ background-color:#cbf1ba; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1nl	{ background-color:#cbf1ba; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:left; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1nlt	{ background-color:#cbf1ba; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:left; vertical-align:top; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1m	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:middle; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1m_lh110	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:middle; font:normal 75%/110% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1c	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:center; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1cm	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:center; vertical-align:middle; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1r	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:right; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1rt	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:right; vertical-align:top; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1w	{ background-color:#FFFFFF; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1wcm	{ background-color:#FFFFFF; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:center; vertical-align:middle; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1wm	{ background-color:#FFFFFF; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:middle; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1wr	{ background-color:#FFFFFF; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:right; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1wrt	{ background-color:#FFFFFF; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:right; vertical-align:top; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1_th	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+DIV.list_caut	{ padding-left:14px; padding-bottom:3px; text-indent:-14px; vertical-align:top; }
+
+/* LIST-GENERAL-01-lh180percent */
+TH.list_g1a	{ background-color:#cbf1ba; padding:5px; color:#505050; border:1px #D0D0D0 solid; font:bold 75%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1na	{ background-color:#cbf1ba; padding:5px; color:#404040; border:1px #D0D0D0 solid; font:normal 75%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1a	{ background-color:#e9fbe0; padding:5px; color:#404040; vertical-align:top; border:1px #D0D0D0 solid; font:normal 75%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+/* LIST-GENERAL-02 */
+TH.list_g2	{ background-color:#FFE080; padding:4px; color:#505030; border:1px #D0D0D0 solid; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g2l	{ background-color:#FFE080; padding:4px; color:#505030; border:1px #D0D0D0 solid; text-align:left; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g2lt	{ background-color:#FFE080; padding:4px; color:#505030; border:1px #D0D0D0 solid; text-align:left; vertical-align:top; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g2n	{ background-color:#FFE080; padding:4px; color:#404020; border:1px #D0D0D0 solid; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g2_85	{ background-color:#FFE080; padding:5px; color:#505030; border:1px #D0D0D0 solid; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g2n_85	{ background-color:#FFE080; padding:5px; color:#404020; border:1px #D0D0D0 solid; font:normal 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g2_85l	{ background-color:#FFE080; padding:5px; color:#404020; border:1px #D0D0D0 solid; text-align:left; font:bold 85%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g2	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:75%/130% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+/* LIST-GENERAL-02-lh180per */
+TH.list_g2_180	{ background-color:#FFE080; padding:5px; color:#606060; border:1px #D0D0D0 solid; font:normal 75%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g2_180	{ background-color:#e9fbe0; padding:5px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:normal 75%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+/* LIST-GENERAL-01-fs85per */
+TH.list_g1_85	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; font:85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1l_85	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; text-align:left; font:85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1lt_85	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; text-align:left; vertical-align:top; font:85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1n_85	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1nl_85	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; text-align:left; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1_85	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1w_85	{ background-color:#FFFFFF; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1ct_85	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; text-align:center; vertical-align:top; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+/* LIST-GENERAL-02-fs85per-lh180percent */
+TH.list_g1_85a	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; font:normal 85%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_g1_85a	{ background-color:#e9fbe0; padding:4px; color:#404040; border:1px #D0D0D0 solid; vertical-align:top; font:normal 85%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_g1lt_85a	{ background-color:#cbf1ba; padding:4px; color:#606060; border:1px #D0D0D0 solid; text-align:left; vertical-align:top; font:85%/180% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+/* LIST-FLAT-01 */
+TABLE.list_gf1	{ background-color:#FFFFFF; border-collapse:collapse; border:1px #606060 solid; }
+TH.list_gf1	{ background-color:#e9fbe0; padding:8px; color:#606060; border:1px #606060 solid; font:bold 75%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_gf1y	{ background-color:#FFE080; padding:8px; color:#605030; border:1px #606060 solid; font:bold 75%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_gf1	{ background-color:#FFFFFF; padding:8px; color:#404040; border:1px #606060 solid; vertical-align:top; font:normal 75%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_gf1g	{ background-color:#e9fbe0; padding:8px; color:#404040; border:1px #606060 solid; vertical-align:top; font:normal 75%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+
+/* LIST-FLAT-01-fs85per */
+TH.list_gf1_85	{ background-color:#e9fbe0; padding:8px; border:1px #606060 solid; color:#707070; font:bold 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TH.list_gf1y_85	{ background-color:#FFE080; padding:8px; border:1px #606060 solid; color:#605030; font:bold 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_gf1_85	{ background-color:#FFFFFF; padding:8px; border:1px #606060 solid; color:#404040; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+TD.list_gf1g_85	{ background-color:#e9fbe0; padding:8px; border:1px #606060 solid; color:#404040; font:normal 85%/140% Meiryo,ƒƒCƒŠƒI,'‚l‚r ‚oƒSƒVƒbƒN',Osaka,sans-serif; }
+

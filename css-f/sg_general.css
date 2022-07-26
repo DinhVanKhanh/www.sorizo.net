@@ -1,0 +1,123 @@
+/* GLOBAL */
+BODY { margin:0px; padding:0px; }
+H1 { margin:0px; }
+H2 { margin:0px; }
+H3 { margin:0px; }
+H4 { margin:0px; }
+H5 { margin:0px; }
+H6 { margin:0px; }
+
+/* Page-Layout */
+.pglo_hereis		{ width:740px; margin:2px 0px 15px 5px; vertical-align:top; color:#606060; font:70%/120% "MS UI Gothic",Osaka,sans-serif; }
+.pglo_all		{ width:750px; background:url(/images_general/bg_pgseparate.gif); }
+.pglo_menu		{ float:left; width:170px; padding-bottom:30px; background-image:url(/images_general/bg_pgseparate.gif); }
+.pglo_contents		{ float:left; width:550px; margin-left:30px; }
+.pglo_contents_main	{ float:left; width:410px; padding-top:0px; }
+.pglo_contents_sub	{ float:left; width:120px; margin-left:20px; }
+
+/* TEXT-HereIs */
+.hereis_h	{ margin:0px; padding-left:10px; color:#606060; font:normal 70%/120% "MS UI Gothic",Osaka,sans-serif; }
+.hereis_h1	{ margin:0px; padding-left:10px; color:#606060; font:normal 70%/120% "MS UI Gothic",Osaka,sans-serif; }
+.hereis		{ padding:2px 0px 0px 5px; vertical-align:top; color:#606060; font:70%/120% "MS UI Gothic",Osaka,sans-serif; }.contact	{ text-align:right; vertical-align:top; color:#606060; font:65%/120% "MS UI Gothic",Osaka,sans-serif; }
+
+/* TEXT-Link-red_10 */
+.red_10		{ color:#404040; text-decoration:none; font:10px/10px "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.red_10		A:link		{ color:#B00000; text-decoration:none; }
+.red_10		A:active	{ color:#B00000; text-decoration:underline; }
+.red_10		A:visited	{ color:#800000; text-decoration:none; }
+.red_10		A:hover		{ color:#FF0000; text-decoration:underline; }
+
+/* TEXT-Link-LeftMenu */
+.linkmn		A:link		{ color:#606060; text-decoration:none; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.linkmn		A:active	{ color:#B00000; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.linkmn		A:visited	{ color:#808080; text-decoration:none; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.linkmn		A:hover		{ color:#B00000; text-decoration:underline; font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+
+/* TEXT-Link-LeftMenu2 */
+.linkmn2	A:link		{ color:#606060; text-decoration:none; font:10px/12px "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.linkmn2	A:visited	{ color:#606060; text-decoration:none; font:10px/12px "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.linkmn2	A:hover		{ color:#B00000; text-decoration:underline; font:10px/12px "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.linkmn2	A:active	{ color:#B00000; text-decoration:none; font:10px/12px "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+
+/* NEW Left-Menu */
+H1.lm_h1	{ height:35px; padding-top:5px; background:url(/images_general/lm_title_bgimg.gif) no-repeat; color:#FFFFFF; text-align:center; font:bold 12px/13px "MS UI Gothic",Osaka,sans-serif; }
+.lm_title_w	{ color:#FFFFFF; text-align:center; vertical-align:middle; background:#C0C0C0 url(/images_general/lm_title_bgimg.gif) no-repeat; font:bold 12px/110% "MS UI Gothic",Osaka,sans-serif; }
+.lm_ttl_12px	{ color:#FFFFFF; font:bold 75%/110% "MS UI Gothic",Osaka,sans-serif; }
+.lm_ttl_w075	{ color:#FFFFFF; font:bold 75%/110% "MS UI Gothic",Osaka,sans-serif; }
+.lm_mida_w070	{ color:#808080; font:70%/110% "MS UI Gothic",Osaka,sans-serif; }
+
+/* TEXT-Percentage */
+.p100_200	{ color:#404040; font:100%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p100_180	{ color:#404040; font:100%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p100_150	{ color:#404040; font:100%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p100_130	{ color:#404040; font:100%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p100_120	{ color:#404040; font:100%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p100_110	{ color:#404040; font:100%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p090_200	{ color:#404040; font:92%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p090_180	{ color:#404040; font:92%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p090_150	{ color:#404040; font:92%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p090_130	{ color:#404040; font:92%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p090_120	{ color:#404040; font:92%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p090_110	{ color:#404040; font:92%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_200	{ color:#404040; font:85%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_180	{ color:#404040; font:85%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_150	{ color:#404040; font:85%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_130	{ color:#404040; font:85%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_120	{ color:#404040; font:85%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p085_110	{ color:#404040; font:85%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p080_200	{ color:#404040; font:80%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p080_180	{ color:#404040; font:80%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p080_150	{ color:#404040; font:80%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p080_130	{ color:#404040; font:80%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p080_120	{ color:#404040; font:80%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p080_110	{ color:#404040; font:80%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_200	{ color:#404040; font:75%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_180	{ color:#404040; font:75%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_150	{ color:#404040; font:75%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_130	{ color:#404040; font:75%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_120	{ color:#404040; font:75%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p075_110	{ color:#404040; font:75%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_200	{ color:#404040; font:70%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_180	{ color:#404040; font:70%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_150	{ color:#404040; font:70%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_130	{ color:#404040; font:70%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_120	{ color:#404040; font:70%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_115	{ color:#404040; font:70%/115% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p070_110	{ color:#404040; font:70%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p065_200	{ color:#404040; font:65%/200% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p065_180	{ color:#404040; font:65%/180% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p065_150	{ color:#404040; font:65%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p065_130	{ color:#404040; font:65%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p065_120	{ color:#404040; font:65%/120% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.p065_110	{ color:#404040; font:65%/110% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+
+/* TEXT-Percentage-MS UI Gothic */
+.p085_180_ui	{ color:#404040; font:85%/180% "MS UI Gothic",Osaka,sans-serif; }
+.p085_150_ui	{ color:#404040; font:85%/150% "MS UI Gothic",Osaka,sans-serif; }
+.p080_130_ui	{ color:#404040; font:80%/130% "MS UI Gothic",Osaka,sans-serif; }
+.p075_150_ui	{ color:#404040; font:75%/150% "MS UI Gothic",Osaka,sans-serif; }
+.p075_130_ui	{ color:#404040; font:75%/130% "MS UI Gothic",Osaka,sans-serif; }
+.p075_120_ui	{ color:#404040; font:75%/120% "MS UI Gothic",Osaka,sans-serif; }
+
+/* ONLY-font-Family */
+.ffml_msp	{ font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.ffml_msui	{ font-family:"MS UI Gothic",Osaka,sans-serif; }
+.ffml_ms	{ font-family:"‚l‚r ƒSƒVƒbƒN",Osaka,sans-serif; }
+.only_ff	{ font-family:"‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+
+/* VersionUp-Function */
+.prd_vup1	{ background:url(/images_general/new.gif) no-repeat; padding:3px 0px 8px 67px; color:#404040; font:bold 85%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.prd_vup2	{ background:url(/images_general/new.gif) no-repeat; padding:4px 0px 8px 67px; color:#606060; font:75%/150% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.prd_vup3	{ background:url(/images_general/new.gif) no-repeat; padding:1px 0px 8px 67px; color:#606060; font:bold 100%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+.prd_vup4	{ background:url(/images_general/new.gif) no-repeat; padding:1px 0px 4px 67px; color:#606060; font:bold 100%/130% "‚l‚r ‚oƒSƒVƒbƒN",Osaka,sans-serif; }
+
+/* HowToSeeTheMovie */
+.howto_wm	{ padding-top:3px; text-align:right; color:#CBD0E9; font:12px/14px "MS UI Gothic",Osaka,sans-serif; }
+.howto_wm	A:link		{ color:#CBD0E9; text-decoration:none; }
+.howto_wm	A:active	{ color:#FFFFFF; text-decoration:none; }
+.howto_wm	A:visited	{ color:#CBD0E9; text-decoration:none; }
+.howto_wm	A:hover		{ color:#FFFFFF; text-decoration:underline; }
+
+/* TITLE2_15 */
+.title2_15	{ padding:1px 0px 0px 3px; text-align:left; color:#606060; font:75%/130% "MS UI Gothic",Osaka,sans-serif; }
+

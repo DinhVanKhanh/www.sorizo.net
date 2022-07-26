@@ -1,0 +1,76 @@
+/* JUMP_inPage LINK */
+.list_jump_75	{ background:url(/images_general/navimark_jump_y.gif) no-repeat 10px center; padding:6px 0px 5px 55px; font:75% MS UI Gothic,Osaka,sans-serif;}
+.list_jump_85	{ background:url(/images_general/navimark_jump_y.gif) no-repeat 10px center; padding:6px 0px 5px 55px; font:85% MS UI Gothic,Osaka,sans-serif;}
+
+/* LIST-GENERAL-01 */
+TABLE.list_g1	{ border-collapse:collapse; }
+TH.list_g1	{ background-color:#E8E8E8; padding:4px; color:#505050; border-bottom:1px #D0D0D0 solid; border-right:1px #B8B8B8 solid; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1l	{ background-color:#E8E8E8; padding:4px; color:#505050; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1lt	{ background-color:#E8E8E8; padding:4px; color:#505050; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; vertical-align:top; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1t	{ background-color:#E8E8E8; padding:4px; color:#505050; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; vertical-align:top; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1n	{ background-color:#E8E8E8; padding:4px; color:#404040; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1nt	{ background-color:#E8E8E8; padding:4px; color:#404040; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; vertical-align:top; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1nl	{ background-color:#E8E8E8; padding:4px; color:#404040; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1nlt	{ background-color:#E8E8E8; padding:4px; color:#404040; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; vertical-align:top; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; vertical-align:top; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1m	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; vertical-align:middle; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1m_lh110	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; vertical-align:middle; font:normal 75%/110% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1c	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; text-align:center; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1cm	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; text-align:center; vertical-align:middle; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1r	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; text-align:right; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1rt	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; text-align:right; vertical-align:top; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1w	{ background-color:#FFFFFF; padding:4px; color:#404040; border-bottom:1px #D8D8D8 solid; border-right:1px #D8D8D8 solid; vertical-align:top; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1wcm	{ background-color:#FFFFFF; padding:4px; color:#404040; border-bottom:1px #D8D8D8 solid; border-right:1px #D8D8D8 solid; text-align:center; vertical-align:middle; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1wm	{ background-color:#FFFFFF; padding:4px; color:#404040; border-bottom:1px #D8D8D8 solid; border-right:1px #D8D8D8 solid; vertical-align:middle; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1wr	{ background-color:#FFFFFF; padding:4px; color:#404040; border-bottom:1px #D8D8D8 solid; border-right:1px #D8D8D8 solid; text-align:right; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1wrt	{ background-color:#FFFFFF; padding:4px; color:#404040; border-bottom:1px #D8D8D8 solid; border-right:1px #D8D8D8 solid; text-align:right; vertical-align:top; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1_th	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+DIV.list_caut	{ padding-left:14px; padding-bottom:3px; text-indent:-14px; vertical-align:top; }
+
+/* LIST-GENERAL-01-lh180percent */
+TH.list_g1a	{ background-color:#E8E8E8; padding:5px; color:#505050; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; font:bold 75%/180% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1na	{ background-color:#E8E8E8; padding:5px; color:#404040; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; font:normal 75%/180% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1a	{ background-color:#F8F8F8; padding:5px; color:#404040; vertical-align:top; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; font:normal 75%/180% MS UI Gothic,Osaka,sans-serif; }
+
+/* LIST-GENERAL-02 */
+TH.list_g2	{ background-color:#FFE080; padding:4px; color:#505030; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g2l	{ background-color:#FFE080; padding:4px; color:#505030; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; text-align:left; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g2lt	{ background-color:#FFE080; padding:4px; color:#505030; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; text-align:left; vertical-align:top; font:bold 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g2n	{ background-color:#FFE080; padding:4px; color:#404020; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; font:normal 75%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g2_85	{ background-color:#FFE080; padding:5px; color:#505030; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; font:bold 85%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g2n_85	{ background-color:#FFE080; padding:5px; color:#404020; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; font:normal 85%/130% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g2_85l	{ background-color:#FFE080; padding:5px; color:#404020; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; text-align:left; font:bold 85%/130% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g2	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; vertical-align:top; font:75%/130% MS UI Gothic,Osaka,sans-serif; }
+
+/* LIST-GENERAL-02-lh180per */
+TH.list_g2_180	{ background-color:#FFE080; padding:5px; color:#606060; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; font:normal 75%/180% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g2_180	{ background-color:#F8F8F8; padding:5px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; vertical-align:top; font:normal 75%/180% MS UI Gothic,Osaka,sans-serif; }
+
+/* LIST-GENERAL-01-fs85per */
+TH.list_g1_85	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; font:85%/140% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1l_85	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; font:85%/140% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1lt_85	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; vertical-align:top; font:85%/140% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1n_85	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1nl_85	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1_85	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1w_85	{ background-color:#FFFFFF; padding:4px; color:#404040; border-bottom:1px #D8D8D8 solid; border-right:1px #D8D8D8 solid; vertical-align:top; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1ct_85	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; text-align:center; vertical-align:top; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+
+/* LIST-GENERAL-02-fs85per-lh180percent */
+TH.list_g1_85a	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #D0B060 solid; border-right:1px #D0B060 solid; font:normal 85%/180% MS UI Gothic,Osaka,sans-serif; }
+TD.list_g1_85a	{ background-color:#F8F8F8; padding:4px; color:#404040; border-bottom:1px #C8C8C8 solid; border-right:1px #C8C8C8 solid; vertical-align:top; font:normal 85%/180% MS UI Gothic,Osaka,sans-serif; }
+TH.list_g1lt_85a	{ background-color:#E8E8E8; padding:4px; color:#606060; border-bottom:1px #B8B8B8 solid; border-right:1px #B8B8B8 solid; text-align:left; vertical-align:top; font:85%/180% MS UI Gothic,Osaka,sans-serif; }
+
+/* LIST-FLAT-01 */
+TABLE.list_gf1	{ background-color:#FFFFFF; border-collapse:collapse; border:1px #606060 solid; }
+TH.list_gf1	{ background-color:#F8F8F8; padding:8px; color:#606060; border:1px #606060 solid; font:bold 75%/140% MS UI Gothic,Osaka,sans-serif; }
+TH.list_gf1y	{ background-color:#FFE080; padding:8px; color:#605030; border:1px #606060 solid; font:bold 75%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_gf1	{ background-color:#FFFFFF; padding:8px; color:#404040; border:1px #606060 solid; vertical-align:top; font:normal 75%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_gf1g	{ background-color:#F8F8F8; padding:8px; color:#404040; border:1px #606060 solid; vertical-align:top; font:normal 75%/140% MS UI Gothic,Osaka,sans-serif; }
+
+/* LIST-FLAT-01-fs85per */
+TH.list_gf1_85	{ background-color:#F8F8F8; padding:8px; border:1px #606060 solid; color:#707070; font:bold 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TH.list_gf1y_85	{ background-color:#FFE080; padding:8px; border:1px #606060 solid; color:#605030; font:bold 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_gf1_85	{ background-color:#FFFFFF; padding:8px; border:1px #606060 solid; color:#404040; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+TD.list_gf1g_85	{ background-color:#F8F8F8; padding:8px; border:1px #606060 solid; color:#404040; font:normal 85%/140% MS UI Gothic,Osaka,sans-serif; }
+

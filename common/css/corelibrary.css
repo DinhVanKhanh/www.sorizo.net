@@ -1,0 +1,55 @@
+@charset "shift_jis";
+/*
+corelibrary.css 
+* * * * * * * * * * * * * * * * * * * * */
+
+
+/* Floatバグ回避用 */
+.clearfix:after { content: ""; display: block; clear: both; }
+/* @end */
+
+
+/* TOPへ戻るボタンの設定 */
+#toTop {
+	position:fixed;
+	bottom:25px;
+	right:15%;
+	z-index:1000;
+	text-align:center;
+}
+#toTop a {
+	display:block;
+	width:40px;
+	height:40px;
+	color:#FFF;
+	font-size:16px;
+	line-height:40px;
+	text-decoration:none;
+	border:3px solid #FFF;
+	border-radius:23px;
+	background-color:rgba(0,0,0,0.5);
+	box-shadow:0 3px 5px rgba(0,0,0,0.5);
+}
+#toTop a:hover {background-color:rgba(0,0,0,0.8);}
+#pos {
+	position:absolute;
+	left:-9999px;
+	top:-9999px;
+	height:0;
+	visibility:hidden;
+}
+
+/* IE8表示崩れ防止用 */
+#toTop a {background-image:url(/common/images/totop.png)\9;}
+
+/* IE7表示崩れ防止用 */
+*+html #head li,
+*+html #foot li {display:inline;}
+*+html #toTop a {background-image:url(/common/images/totop.png);}
+*+html #toTop a:hover { opacity:1;}
+
+/* IE6表示崩れ防止用 */
+*html .section {background-color:#FFF;}
+*html #head li,
+*html #foot li {display:inline;}
+*html #toTop {display:none !important;}

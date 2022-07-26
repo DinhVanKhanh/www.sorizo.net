@@ -1,0 +1,91 @@
+@charset "shift_jis";
+/*
+reset.css
+* * * * * * * * * * * * * * * * * * * * */
+
+/* @group reset core class */
+
+body,div,
+h1,h2,h3,h4,h5,h6,
+p,dl,dt,dd,ul,ol,li,
+span,address,
+table,th,td,
+form,fieldset,
+blockquote,pre,object,param {
+margin:0;
+padding:0;
+background:transparent;
+vertical-align:baseline;
+font-family:'ÉqÉâÉMÉmäpÉS Pro W3','Hiragino Kaku Gothic Pro','ÉÅÉCÉäÉI',Meiryo,'ÇlÇr ÇoÉSÉVÉbÉN','MS PGothic',sans-serif;
+}
+
+body,fieldset,img,object,param,fieldset,button,abbr,acronym {
+border:0;
+}
+
+table {
+border-collapse:collapse;
+empty-cells:show;
+border-spacing:0;
+}
+
+img,object,param,button {
+vertical-align:bottom;
+}
+ol,ul,li {
+list-style:none;
+}
+
+br {
+letter-spacing:0;
+}
+
+em,address {
+font-style:normal;
+}
+
+th {
+font-weight:normal;
+}
+
+input,textarea {
+}
+
+caption,cite,code,dfn,var {
+font-style:normal;
+font-weight:normal;
+}
+
+a,input:focus
+{
+outline:0;
+}
+
+/* @end core reset */
+
+/* @group reset font style */
+
+html,body,div,
+h1,h2,h3,h4,h5,h6,
+p,dl,dt,dd,ul,ol,li,
+span,address,
+table,thead,tfoot,tbody,th,td,
+form,fieldset,label,button,input,textarea,option,select,
+blockquote,pre,object,param
+{
+font-size:100.01%;
+font-style:normal;
+}
+
+h1,h2,h3,h4,h5,h6,strong
+{
+font-weight:bold;
+}
+
+/* @end */
+
+/* @group javascript rollover class */
+
+.ImgOver{}
+
+/* @end */

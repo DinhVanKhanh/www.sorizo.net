@@ -1,0 +1,490 @@
+@charset "utf-8";
+/*
+layout.css
+* * * * * * * * * * * * * * * * * * * * */
+
+#headAlert p { font-size:13px;}
+
+header dl,
+article,
+nav,
+h1,
+nav ul,
+#topMain,
+#listMain,
+#topNews,
+#contents,
+.senryu-mvp,
+.info {	width:320px;}
+h1 a,
+.box-ll,
+.box-lm,
+.box-mm,
+.box-news,
+.box-contents {	width:310px;}
+article { padding:20px 5px 90px 5px;}
+*html article {	width:330px;}
+nav { height:215px;}
+h1 { height:130px;}
+h1 a {
+	padding:105px 0 0 0;
+	height:20px;
+	background-position:center 15px;
+}
+nav ul { height:80px;}
+nav li {
+	width:160px;
+	height:40px;
+}
+nav li a {
+	width:150px;
+	height:35px;
+	line-height:35px;
+}
+#topMain,
+#listMain,
+.senryu-mvp,
+.info {	height:200px;}
+#topNews { height:320px;}
+.box-ll,
+.box-lm,
+.box-mm,
+.boxlink,
+.boxlink li,
+.boxlink li a,
+.boxlink li a span { height:190px;}
+.box-news {	height:310px;}
+.box-contents {	padding:0 0 5em 0;}
+
+#topMain h2 { background-position:center;}
+#topMain h2 span,
+#listMain h2 span {
+	bottom:10px;
+	left:10px;
+	font-size:24px;
+}
+
+.info h3 {
+	padding:30px 15px 0 25px;
+	font-size:20px;
+}
+.info p {
+	padding:15px 15px 0 25px;
+	font-size:14px;
+}
+.senryu-3rd { display:none;}
+#contents hgroup dt,
+#contents hgroup dd {
+	width:100%;
+	font-size:12px;
+}
+#contents hgroup dt span { padding:0 1em 1em 1em;}
+#contents hgroup dd { padding:1.5em 0 0.5em 0;}
+#contents hgroup dd span { padding:0 1em 1em 1em;}
+#contents blockquote {
+	padding:0.5em 1em 1em 1em;
+}
+#contents h2 {
+	padding:0 20px 20px 20px;
+	font-size:20px;
+}
+#contents hgroup h2 span {
+	padding: 0.5em 0;
+	font-size:14px;
+}
+#contents h3 {
+	padding: 40px 20px 5px 20px;
+	font-size:20px;
+}
+#contents h4 {
+	padding:20px 20px 5px 20px;
+	font-size:16px;
+}
+#contents h5 {
+	padding:15px 20px 0px 20px;
+}
+#contents h5,
+#contents p,
+#contents ul,
+#contents ol,
+#contents dl,
+#contents table {
+	font-size:14px;
+}
+#contents .text-s {font-size:11px;}
+#contents h5,
+#contents p,
+#contents ul,
+#contents ol,
+#contents dl {
+	padding: 0 20px 15px 20px;
+}
+#contents form dl {
+	padding:1em 20px;
+}
+#contents ol li {
+	margin:0 0 0 1.5em;
+}
+#contents p img {
+	width:100%;
+}
+#contents table {
+	padding:15px 20px;
+}
+.boxlink li,
+.boxlink li a,
+.boxlink li a span {
+	line-height:200px;
+	font-weight:bold;
+}
+#home .boxlink li,
+#home .boxlink li a,
+#home .boxlink li a span { font-size:30px;}
+#list .boxlink li,
+#list .boxlink li a,
+#list .boxlink li a span { font-size:24px;}
+.senryu-mvp p {	padding:10px 10px 0 10px;}
+#senryuHgroupL,
+#senryuHgroupR {
+	width:100%;
+}
+#senryuHgroupL h3,
+#senryuHgroupL p {
+	padding:0 20px 10px 20px !important;
+}
+#senryuHgroupL p {
+	font-size:12px !important;
+}
+#senyuArticles {
+	padding:2em 1em 0.5em 1em;
+}
+#senyuArticles h3 {
+	padding:0 0 0.5em 0 !important;
+	font-size:30px !important;
+	line-height:42px;
+}
+#senyuArticles ul {
+	padding:0 0 2em 0 !important;
+}
+#senyuArticles li .senryu-box span,
+#senyuArticles p span {
+	bottom:1.5em;
+	left:0.5em;
+	width:0.1em;
+	line-height:1.05em;
+	font-size:11px;
+}
+#senyuArticles li .senryu-box button {
+	bottom:0;
+	left:0;
+	font-size:14px;
+}
+#senyuArticles li .senryu-box,
+#senyuArticles p {
+	padding:1em 1em 2em 1.5em;
+	width:1em;
+	font-size:16px;
+	border:4px solid #C90;
+}
+
+
+/*640px*/
+@media screen and (min-width : 640px){
+#headAlert p { font-size:18px;}
+
+header dl,
+article,
+nav,
+#topMain,
+#listMain,
+#contents {	width:640px;}
+footer dl {
+	width:50%;
+	height:360px;
+	border-bottom:none;
+}
+article { padding:20px 0px 100px 0px;}
+*html article {	width:650px;}
+nav,
+h1,
+nav ul { height:140px;}
+h1 a {
+	padding:110px 0 0 0;
+	height:20px;
+	background-position:center 15px;
+}
+nav ul { width:320px;}
+nav li {
+	width:160px;
+	height:70px;
+}
+nav li a {
+	width:150px;
+	height:60px;
+	line-height:60px;
+}
+#topMain,
+#listMain {	height:320px;}
+#topMain h2 { background-position:0 -160px;}
+#topMain h2 span,
+#listMain h2 span {
+	bottom:20px;
+	left:20px;
+	font-size:42px;
+}
+.senryu-mvp,
+.info {	height:320px;}
+.box-ll,
+.box-lm,
+.box-mm,
+.boxlink,
+.boxlink li,
+.boxlink li a,
+.boxlink li a span { height:310px;}
+.box-ll,
+.box-lm,
+.box-contents {	width:630px;}
+.info h3 { padding:60px 15px 0 25px;}
+.senryu-3rd { display:block;}
+#contents hgroup dt {
+	width:50%;
+}
+#contents hgroup dd {
+	padding:0;
+	width:50%;
+}
+#contents hgroup dt span { padding:0 2em 1em 30px;}
+#contents hgroup dd {
+	padding:1.5em 0 0.5em 0;
+	border-radius: 10px 0 0 10px / 10px 0 0 10px;
+}
+#contents hgroup dd span { padding:0 1em 1em 1em;}
+#contents blockquote {
+	padding:0.5em 1.5em 1.5em 1.5em;
+}
+#contents h2 {
+	padding:20px 30px 20px 30px;
+	font-size:30px;
+}
+#contents hgroup h2 span {
+	font-size:18px;
+}
+#contents h3 {
+	padding: 20px 30px 10px 30px;
+	font-size:24px;
+}
+#contents h4 {
+	padding:20px 30px 10px 30px;
+	font-size:18px;
+}
+#contents h5 {
+	padding:20px 30px 0px 30px;
+}
+#contents h5,
+#contents p,
+#contents ul { padding: 0 30px 20px 30px;}
+#contents dl { padding: 0 30px 40px 30px;}
+#contents form dl {
+	padding:1em 30px;
+}
+#contents table { padding:20px 30px;}
+#contents ol li {
+	margin:0 0 0 2.5em;
+}
+.boxlink li,
+.boxlink li a,
+.boxlink li a span {
+	line-height:310px;
+	font-size:30px;
+}
+.senryu-mvp p {	padding:60px 10px 0 10px;}
+#senryuHgroupL {
+	width:30%;
+}
+#senryuHgroupR {
+	width:70%;
+}
+#senryuHgroupL h3,
+#senryuHgroupL p {
+	padding:0 0 10px 30px !important;
+}
+#senyuArticles {
+	padding:2em 1em 0.5em 1em;
+}
+#senyuArticles h3 {
+	padding:0 0 1em 0 !important;
+	font-size:36px !important;
+	line-height:50px;
+}
+#senyuArticles ul {
+	padding:0 0 2em 0 !important;
+}
+#senyuArticles li .senryu-box span,
+#senyuArticles p span {
+	bottom:1.5em;
+	left:0.5em;
+	width:0.1em;
+	line-height:1.05em;
+	font-size:11px;
+}
+#senyuArticles li .senryu-box button {
+	bottom:0;
+	left:0;
+	font-size:16px;
+}
+#senyuArticles li .senryu-box,
+#senyuArticles p {
+	padding:1.5em 1.3em 1.5em 1.7em;
+	width:1em;
+	font-size:22px;
+	border:4px solid #C90;
+}
+
+}
+/*860px*/
+@media screen and (min-width : 960px){
+header dl,
+article { width:960px;}
+*html article { width:970px;}
+footer dl {
+	width:25%;
+	height:auto;
+}
+nav {
+	width:320px;
+	height:640px;
+}
+h1,
+nav ul { height:320px;}
+h1 a {
+	padding:270px 0 0 0;
+	height:40px;
+	background-position:center 110px;
+}
+nav li {
+	width:160px;
+	height:160px;
+}
+nav li a {
+	padding:100px 0 0 0;
+	width:150px;
+	height:50px;
+	line-height:50px;
+}
+#btnCommunity a {background-image:url(/common/images/nav-icon1.png);}
+#btnSupport a {background-image:url(/common/images/nav-icon2.png);}
+#btnProgram a {background-image:url(/common/images/nav-icon3.png);}
+#btnService a {background-image:url(/common/images/nav-icon4.png);}
+
+#topMain {
+	width:640px;
+	height:640px;
+}
+#topMain h2 span {
+	bottom:10px;
+	left:20px;
+	font-size:52px;
+}
+#topMain h2 { background-position:0 0;}
+.box-ll {
+	width:630px;
+	height:630px;
+}
+}
+/*1140px*/
+@media screen and (min-width : 1300px){
+header dl,
+article {	width:1280px;}
+*html article {	width:1290px;}
+#contents {	width:960px;}
+.box-contents {	width:950px;}
+#contents hgroup dt {
+	width:40%;
+}
+#contents hgroup dd {
+	width:60%;
+	font-size:14px;
+}
+#contents hgroup dt span { padding:0 2em 1em 40px;}
+#contents h2 {
+	padding:30px 40px 30px 40px;
+	font-size:36px;
+}
+#contents hgroup h2 span {
+	font-size:20px;
+}
+#contents h3 {
+	padding: 30px 40px 15px 40px;
+	font-size:28px;
+}
+#contents h4 {
+	padding:30px 40px 15px 40px;
+	font-size:20px;
+}
+#contents h5 {
+	padding:15px 40px 0px 40px;
+}
+#contents h5,
+#contents p,
+#contents ul,
+#contents ol,
+#contents dl,
+#contents table {
+	font-size:16px;
+}
+#contents ol li {
+	margin:0 0 0 3em;
+}
+#contents p img {
+	width:80%;
+}
+.text-s {font-size:13px;}
+#contents h5,
+#contents p,
+#contents ul,
+#contents table {
+	padding: 0 40px 15px 40px;
+}
+#contents dl {
+	padding: 0 40px 30px 40px;
+}
+#contents form dl {
+	padding:1em 40px;
+}
+#senryuHgroupL h3,
+#senryuHgroupL p {
+	padding:0 0 15px 40px !important;
+}
+#senyuArticles {
+	padding:2em 1em 0.5em 1em;
+}
+#senyuArticles h3 {
+	font-size:36px !important;
+}
+#senyuArticles li .senryu-box span,
+#senyuArticles p span {
+	bottom:1em;
+	left:1em;
+}
+#senyuArticles li .senryu-box button {
+	bottom:0;
+	left:0;
+	font-size:16px;
+}
+#senyuArticles li .senryu-box,
+#senyuArticles p {
+	padding:1em 2.3em 1em 2.7em;
+	width:1em;
+	font-size:24px;
+	border:6px solid #C90;
+}
+
+}
+/*1420px*/
+@media screen and (min-width : 1620px){
+header dl,
+article { width:1600px;}
+*html article { width:1600px;}
+#contents {	width:1280px;}
+.box-contents {	width:1270px;}
+}
