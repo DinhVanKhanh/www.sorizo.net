@@ -8,7 +8,6 @@ php-mvc
 *.zip
 logs/
 *_BK*
-*BK*
 *Copy*
 images/
 vendor
